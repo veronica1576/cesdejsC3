@@ -42,23 +42,25 @@ p= ++x; //sumar valor antigo con el actual
 t= --y; //Restar el valor antiguo con el actual
 a= Math.abs(x); //Valor absoluto
 
-document.write("<br>");
-document.write(x);
-document.write("<br>");
-document.write(y);
-document.write("<br>");
-document.write(z);
-document.write("<br>");
-document.write(m);
-document.write("<br>");
-document.write(n);
-document.write("<br>");
-document.write(k);
-document.write("<br>");
-document.write(o);
-document.write("<br>");
-document.write(p);
-document.write("<br>");
-document.write(t);
-document.write("<br>");
-document.write(a);
+//document.write("<br>");
+//document.write(x);
+//document.write("<br>");
+//document.write(y);
+//document.write("<br>");
+//document.write(z);
+//document.write("<br>");
+//document.write(m);
+//document.write("<br>");
+//document.write(n);
+//document.write("<br>");
+//document.write(k);
+//document.write("<br>");
+//document.write(o);
+//document.write("<br>");
+//document.write(p);
+//document.write("<br>");
+//document.write(t);
+//document.write("<br>");
+//document.write(a);
+
+
